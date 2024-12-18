@@ -1,5 +1,5 @@
-Hi, I'm Ruben Schade. I'm a IaaS solutions architect, technical writer, and coffee drinker in Singapore and Sydney, Australia. ☕️ 
+Hi, I'm Ruben Schade. I'm a solutions architect, technical writer, and coffee drinker in Sydney, Australia. ☕️ 
 
-**[My own scripts and writing are now on Codeberg](https://codeberg.org/rubenerd).**
+**[My personal repos are now on Codeberg](https://codeberg.org/rubenerd).**
 
-I also [blog here](https://rubenerd.com/), and this is my [Mastodon](https://bsd.network/) and [Twitter](https://twitter.com/rubenerd). Cheers!
+I also have a [blog](https://rubenerd.com/), and am on [Mastodon](https://bsd.network/).
